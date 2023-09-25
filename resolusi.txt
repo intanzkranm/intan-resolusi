@@ -1,3 +1,4 @@
 List resolusi:
 - Konsisten belajar codingan 3 kali seminggu
 - Lebih paham apa yang dipelajari
+- Membuat website yang lebih kompleks
