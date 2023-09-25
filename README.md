@@ -1,0 +1,2 @@
+# intan-resolusi
+Resolusi kedepannya
